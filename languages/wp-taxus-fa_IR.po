@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Taxus Search\n"
+"POT-Creation-Date: 2018-04-23 15:44+0330\n"
+"PO-Revision-Date: 2018-04-23 15:44+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: taxus-advanced-search.php:36 admin/config.php:28
+msgid "Taxus Settings"
+msgstr "تنظیمات تکسوس"
+
+#: taxus-advanced-search.php:37 admin/send-data.php:196
+#: admin/send-data.php:205 admin/send-data.php:209 admin/send-data.php:217
+msgid "Sync"
+msgstr "همگام سازی (sync)"
+
+#: admin/config.php:12
+msgid "Settings saved successfully"
+msgstr "تنظیمات با موفقیت ذخیره شدند"
+
+#: admin/config.php:17
+msgid "Data deletion operation was successful"
+msgstr "عملیات حذف اطلاعات با موفقیت انجام شد"
+
+#: admin/config.php:19
+msgid "Error in complete data deletion"
+msgstr "خطا در حذف کامل اطلاعات"
+
+#: admin/config.php:36
+msgid "With this plugin, your site search is done by the Taxus service."
+msgstr "به کمک این افزونه جستجوی سایت شما به وسیله سرویس تکسوس انجام می شود."
+
+#: admin/config.php:37
+msgid ""
+"This requires one <a href=\"https://app.taxus.ir/\" target=\"_blank"
+"\">account</a> In Taxus service."
+msgstr ""
+"برای اینکار نیاز به یک <a href=\"https://app.taxus.ir/\" target=\"_blank"
+"\">حساب کاربری</a> در سرویس تکسوس دارید."
+
+#: admin/config.php:38
+msgid ""
+"After entering the account, enter the API Key and enter in the form below."
+msgstr ""
+"پس از ورود به حساب کاربری کلید رابط برنامه نویسی (API Key) را دریافت کرده و "
+"در فرم زیر وارد کنید."
+
+#: admin/config.php:50
+msgid "The API Key is not valid."
+msgstr "کلید رابط برنامه نویسی معتبر نیست."
+
+#: admin/config.php:56 admin/config.php:149
+msgid "Plugin settings"
+msgstr "تنظیمات افزونه"
+
+#: admin/config.php:64
+msgid "Connect to the Taxus service"
+msgstr "اتصال به سرویس تکسوس"
+
+#: admin/config.php:75
+msgid ""
+"The number of pages you search for has reached the maximum number allowed. "
+"Sync for new pages is not done. For more information, see the <a href="
+"\"https://app.taxus.ir/\" class=\"button button-secondary\" target=\"_blank"
+"\"> Taxus user panel </a>."
+msgstr ""
+"تعداد صفحات قابل جستجوی شما به حداکثر تعداد مجاز رسیده است. همگام سازی برای "
+"صفحات جدید انجام نمی شود. برای اطلاعات بیشتر به <a href=\"https://app.taxus."
+"ir/\" class=\"button button-secondary\" target=\"_blank\">پنل مدیریت تکسوس</"
+"a> مراجعه کنید."
+
+#: admin/config.php:78
+msgid ""
+"To enable the search engine, <a href=\"admin.php?page=taxus_send_data_page"
+"\"> sync your pages </a>."
+msgstr ""
+"برای فعال سازی جستجوی تکسوس  <a href=\"admin.php?page=taxus_send_data_page\" "
+">همگام سازی صفحات</a> را انجام دهید"
+
+#: admin/config.php:116
+msgid "Number of pages synced"
+msgstr "تعداد صفحات همگام سازی شده"
+
+#: admin/config.php:117
+msgid "Maximum number of pages allowed"
+msgstr "حداکثر تعداد صفحات مجاز"
+
+#: admin/config.php:118
+msgid "Searches done today"
+msgstr "جستجوهای انجام شده امروز"
+
+#: admin/config.php:119
+msgid "Searches without results today"
+msgstr "جستجوهای بدون نتیجه امروز"
+
+#: admin/config.php:124
+msgid "Synced pages"
+msgstr "صفحات همگام سازی شده"
+
+#: admin/config.php:126
+msgid ""
+"The number of pages on your site that has been activated for the search of "
+"the taxus."
+msgstr "تعداد صفحاتی از سایت شما است که جستجوی تکسوس روی آن ها فعال شده."
+
+#: admin/config.php:132
+msgid "Maximum allowed pages"
+msgstr "حداکثر صفحات مجاز"
+
+#: admin/config.php:134
+msgid ""
+"The number of pages that you can use for your account with the the taxus "
+"service to search."
+msgstr ""
+"تعداد صفحاتی است که شما با توجه به حساب کاربری تان می توانید از سرویس تکسوس "
+"برای جستجو در آن ها استفاده کنید."
+
+#: admin/config.php:137
+msgid ""
+"See the <a href=\"https://app.taxus.ir/\" target=\"_blank\"> user panel </a> "
+"for more reports."
+msgstr ""
+"برای مشاهده گزارش های بیشتر به <a href=\"https://app.taxus.ir/\" target="
+"\"_blank\">پنل مدیریت تکسوس</a> مراجعه کنید."
+
+#: admin/config.php:157
+msgid "Search API Key"
+msgstr "API Key جستجو"
+
+#: admin/config.php:161
+msgid "Update settings"
+msgstr "به‌روزرسانی تنظیمات"
+
+#: admin/config.php:171
+msgid "Delete all pages from the search service"
+msgstr "حذف تمامی صفحات از سرویس جستجو"
+
+#: admin/config.php:174
+msgid "Do you want to delete all pages from the search service?"
+msgstr "آیا مایل به حذف تمامی صفحات از سرویس جستجو هستید؟"
+
+#: admin/config.php:174
+msgid "Delete all information"
+msgstr "حذف تمامی اطلاعات"
+
+#: admin/send-data.php:4
+msgid "Sync all pages"
+msgstr "همگام سازی تمام صفحات"
+
+#: admin/send-data.php:12
+msgid "Enter APIKEY before sending"
+msgstr "قبل از ارسال اطلاعات APIKEY را وارد کنید"
+
+#: admin/send-data.php:162
+msgid ""
+"To activate the search engine on the site, you need to synchronize the "
+"current pages with Taxus."
+msgstr ""
+"برای فعال سازی جستجوی تکسوس روی سایت نیاز است تا صفحات فعلی با تکسوس همگام "
+"سازی شود."
+
+#: admin/send-data.php:164
+msgid "Sync for new pages will automatically be done."
+msgstr "همگام سازی برای صفحات جدید به طور خودکار انجام خواهد شد."
+
+#: admin/send-data.php:166
+msgid "Click the button below to start syncing."
+msgstr "برای شروع همگام سازی روی دکمه زیر کلیک کنید."
+
+#: admin/send-data.php:175
+msgid "Synchronization was successful"
+msgstr "همگام سازی صفحات فعلی سایت با موفقیت انجام شد"
+
+#: admin/send-data.php:178
+msgid "New pages will be automatically synced"
+msgstr "همگام سازی برای صفحات جدید به طور خودکار انجام خواهد شد."
+
+#: admin/send-data.php:181
+msgid "Return to the settings page"
+msgstr "بازگشت به صفحه تنظیمات"
+
+#: admin/send-data.php:206 admin/send-data.php:242
+msgid "Stop the process"
+msgstr "توقف فرآیند"
+
+#: admin/send-data.php:231
+msgid "Input data is invalid"
+msgstr "اطلاعات ورودی معتبر نیست"
+
+#: admin/send-data.php:233
+msgid "The programming interface key is not valid"
+msgstr "کلید رابط برنامه نویسی معتبر نیست"
+
+#: admin/send-data.php:235
+msgid "User account is limited, please visit the admin panel."
+msgstr "حساب کاربری دارای محدودیت است، لطفا به پنل مدیریت مراجعه کنید."
+
+#: admin/send-data.php:237
+msgid "The number of items exceeds limit set"
+msgstr "تعداد آیتم ها بیش از حد نصاب تعیین شده است"
+
+#: languages/common-strings.php:2
+msgid "Taxus Advanced Search"
+msgstr "پلاگین جستجوی پیشرفته به وسیله سرویس taxus"
+
+#: languages/common-strings.php:3
+msgid "Taxus advanced search"
+msgstr "پلاگین جستجوی پیشرفته به وسیله سرویس taxus"
+
+#~ msgid "Taxus Search"
+#~ msgstr "جستجوی تکسوس"
+
+#~ msgid "This requires one"
+#~ msgstr "برای اینکار نیاز به یک"
+
+#~ msgid "account"
+#~ msgstr "حساب کاربری"
